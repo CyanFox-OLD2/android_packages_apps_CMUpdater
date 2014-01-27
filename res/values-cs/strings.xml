@@ -95,17 +95,5 @@
 
     <string name="extension_label">Aktualizace CyanFox</string>
     <string name="extension_description">Zobrazení počtu nových dostupných aktualizací.</string>
-<<<<<<< HEAD
-    <plurals name="extension_status">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> aktualizace</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> aktualizace</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> aktualizací</item>
-    </plurals>
-    <plurals name="extension_expandedTitle">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> CyanFox aktualizace</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> CyanFox aktualizace</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> CyanFox aktualizací</item>
-    </plurals>
-=======
->>>>>>> 6027052a9ba134081231510bca7148e31b8cda47
+
 </resources>
